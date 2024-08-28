@@ -1,0 +1,1 @@
+This is the residue codes from a mobile applciation attempt. The texts are in Turkish and the application was designed in the intent of being in Turkish. The default files of Flutter are not included in this repository.

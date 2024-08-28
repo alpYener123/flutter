@@ -1,0 +1,1 @@
+### This app's sole purpose is to gather the user's location and step count
